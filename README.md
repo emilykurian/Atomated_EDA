@@ -16,7 +16,7 @@ Step 1: Set up streamlit app
 - Set the configuration for the Streamlit page, defining the page icon and title
 - Set up the Streamlit web app by defining the title and a file uploader for CSV files.
 - If a file is uploaded, read the data and create tabs for different EDA sections.
-Step 2: Dataset Overview Tab
+  Step 2: Dataset Overview Tab
 - Display basic information about the dataset, including the number of rows, duplicates, features, categorical columns, and continuous columns.
 - Generate a correlation chart for continuous columns.
 - Create a bar chart to visualize missing values distribution in the dataset
