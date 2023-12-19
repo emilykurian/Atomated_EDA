@@ -12,18 +12,18 @@ Step 1:  Generate a correlation chart for continuous columns.
 Step 2: Create a bar chart to visualize missing values in the dataset.
 Step 3: Separate continuous and categorical columns in the dataset.
 ## Part 2: Create Streamlit Web App
-Step 1: Set up streamlit app
-- Set the configuration for the Streamlit page, defining the page icon and title
-- Set up the Streamlit web app by defining the title and a file uploader for CSV files.
-- If a file is uploaded, read the data and create tabs for different EDA sections.
-  Step 2: Dataset Overview Tab
-- Display basic information about the dataset, including the number of rows, duplicates, features, categorical columns, and continuous columns.
-- Generate a correlation chart for continuous columns.
-- Create a bar chart to visualize missing values distribution in the dataset
-Step 3: Individual Column Stats Tab
-- Display descriptive statistics for selected continuous features.
-- Show a histogram for the selected continuous feature.
-- Visualize the distribution of values for selected categorical features using a bar chart
-Step 4: Explore Relation Between Features Tab
-- Allow users to select features for the X-axis, Y-axis, and color-encoding in a scatter plot.
-- Generate an interactive scatter plot to explore relationships between selected features.
+Step 1: Set up streamlit app  
+- Set the configuration for the Streamlit page, defining the page icon and title  
+- Set up the Streamlit web app by defining the title and a file uploader for CSV files.  
+- If a file is uploaded, read the data and create tabs for different EDA sections.  
+Step 2: Dataset Overview Tab  
+- Display basic information about the dataset, including the number of rows, duplicates, features, categorical columns, and continuous columns.  
+- Generate a correlation chart for continuous columns.  
+- Create a bar chart to visualize missing values distribution in the dataset  
+Step 3: Individual Column Stats Tab  
+- Display descriptive statistics for selected continuous features.  
+- Show a histogram for the selected continuous feature.  
+- Visualize the distribution of values for selected categorical features using a bar chart.  
+Step 4: Explore Relation Between Features Tab  
+- Allow users to select features for the X-axis, Y-axis, and color-encoding in a scatter plot.  
+- Generate an interactive scatter plot to explore relationships between selected features.  
