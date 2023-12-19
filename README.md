@@ -1,4 +1,5 @@
-# Atomated_EDA: URL: https://emilyautomatededa.streamlit.app/
+# Atomated_EDA:
+URL: https://emilyautomatededa.streamlit.app/
 Aims to automate the Exploratory Data Analysis (EDA) process using Python and Streamlit.  The automation involves creating a Streamlit web application that allows users to upload a CSV file, and subsequently generates various charts and statistics to provide insights into the dataset.
 # Introduction
 Exploratory Data Analysis (EDA) is a crucial phase in the data analysis process that involves the initial exploration, visualization, and understanding of a dataset before diving into more complex analyses or modeling. EDA plays a pivotal role in revealing patterns, trends, and insights hidden within the data, helping analysts and data scientists make informed decisions.
