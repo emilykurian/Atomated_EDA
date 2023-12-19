@@ -13,6 +13,9 @@ Step 2: Create a bar chart to visualize missing values in the dataset.<br>
 Step 3: Separate continuous and categorical columns in the dataset.<br>
 ## Part 2: Create Streamlit Web App<br>
 Step 1: Set up streamlit app  <br>
+Step 2: Dataset Overview Tab  <br>
+Step 2: Dataset Overview Tab  <br>
+Step 2: Dataset Overview Tab  <br>
 
 - Set the configuration for the Streamlit page, defining the page icon and title  <br>
 - Set up the Streamlit web app by defining the title and a file uploader for CSV files.  <br>
